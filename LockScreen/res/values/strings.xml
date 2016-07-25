@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LockScreen</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="sample_device_admin_description">sample_device_admin_description</string>
+    <string name="sample_device_admin">sample_device_admin</string>
+
+</resources>
